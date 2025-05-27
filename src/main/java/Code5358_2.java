@@ -29,6 +29,6 @@ public class Code5358_2 {
             sb.append('\n');
         }
 
-        System.out.println(sb.toString());
+        System.out.println(sb);
     }
 }

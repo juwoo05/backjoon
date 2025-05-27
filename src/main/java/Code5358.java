@@ -32,6 +32,6 @@ public class Code5358 {
 
 
 
-        System.out.println(sj.toString());
+        System.out.println(sj);
     }
 }
