@@ -18,7 +18,7 @@ public class Code5358 {
                     newName += "e";
                 } else if (c == 'e'){
                     newName += "i";
-                } else if (c == 'I'){
+                } else if (c == 'O'){
                     newName += "E";
                 } else if (c == 'E'){
                     newName += "I";
