@@ -15,7 +15,7 @@ public class Code5358 {
 
             for (char c : name.toCharArray()){
                 if (c == 'i'){
-                    newName += "e";
+                    newName += "p";
                 } else if (c == 'e'){
                     newName += "i";
                 } else if (c == 'O'){
